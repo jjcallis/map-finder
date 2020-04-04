@@ -32,7 +32,7 @@ class Location extends Model
             $postcode = urlencode($postcode);
 
             // google map geocode api url
-            $url = "https://maps.googleapis.com/maps/api/geocode/json?address={$postcode}&key=AIzaSyAdndxqZ2IuyQJrmwNGXe9xOA3B21hf-_U";
+            $url = "";
 
             // get the json response
             $resp_json = file_get_contents($url);
