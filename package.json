@@ -23,7 +23,7 @@
     "@vue/cli-plugin-eslint": "^3.2.1",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-vue": "^5.0.0",
-    "axios": "^0.18",
+    "axios": "^0.21",
     "cross-env": "^5.1",
     "laravel-mix": "^5.0.1",
     "resolve-url-loader": "^2.3.1",
